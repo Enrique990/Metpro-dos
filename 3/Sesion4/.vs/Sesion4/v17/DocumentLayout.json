@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\3\\sesion4\\sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|solutionrelative:sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\3\\sesion4\\sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|solutionrelative:sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\3\\sesion4\\sesion4\\clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|solutionrelative:sesion4\\clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\3\\sesion4\\sesion4\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D162D4-2647-4B19-9DED-26D872CC8C6C}|Sesion4\\Sesion4.csproj|solutionrelative:sesion4\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion4\\Form1.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\Form1.cs",
+              "RelativeToolTip": "Sesion4\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:45:54.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RRHH.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\clases\\RRHH.cs",
+              "RelativeDocumentMoniker": "Sesion4\\clases\\RRHH.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\clases\\RRHH.cs",
+              "RelativeToolTip": "Sesion4\\clases\\RRHH.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:46:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "Sesion4\\clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\clases\\Empleado.cs",
+              "RelativeToolTip": "Sesion4\\clases\\Empleado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:20:27.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion4\\Form1.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\3\\Sesion4\\Sesion4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sesion4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:16:25.188Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

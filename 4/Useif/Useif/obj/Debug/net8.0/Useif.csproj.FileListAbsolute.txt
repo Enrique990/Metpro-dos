@@ -1,0 +1,14 @@
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.AssemblyInfoInputs.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.AssemblyInfo.cs
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.csproj.CoreCompileInputs.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\bin\Debug\net8.0\Useif.exe
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\bin\Debug\net8.0\Useif.deps.json
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\bin\Debug\net8.0\Useif.runtimeconfig.json
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\bin\Debug\net8.0\Useif.dll
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\bin\Debug\net8.0\Useif.pdb
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.dll
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\refint\Useif.dll
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.pdb
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\Useif.genruntimeconfig.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\4\Useif\Useif\obj\Debug\net8.0\ref\Useif.dll

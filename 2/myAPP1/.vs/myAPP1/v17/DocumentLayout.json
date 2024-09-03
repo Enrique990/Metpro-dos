@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\2\\myapp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\2\\myapp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\2\\myapp1\\myapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|solutionrelative:myapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|c:\\users\\etaln\\onedrive\\documentos\\programacion\\c#\\2\\myapp1\\myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3C38F8-DCFD-4C9B-8FCA-0C13E5C21554}|myAPP1\\myAPP1.csproj|solutionrelative:myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "myAPP1\\clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\clases\\Persona.cs",
+              "RelativeToolTip": "myAPP1\\clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:45:33.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "myAPP1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\FrmPrincipal.cs",
+              "RelativeToolTip": "myAPP1\\FrmPrincipal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:25:20.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\Program.cs",
+              "RelativeDocumentMoniker": "myAPP1\\Program.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\Program.cs",
+              "RelativeToolTip": "myAPP1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:16:23.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "myAPP1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\etaln\\OneDrive\\Documentos\\Programacion\\c#\\2\\myAPP1\\myAPP1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "myAPP1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:01:14.999Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

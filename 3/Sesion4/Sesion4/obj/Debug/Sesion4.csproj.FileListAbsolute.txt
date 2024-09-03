@@ -1,0 +1,10 @@
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\bin\Debug\Sesion4.exe.config
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\bin\Debug\Sesion4.exe
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\bin\Debug\Sesion4.pdb
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.AssemblyReference.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.Form1.resources
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.Properties.Resources.resources
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.GenerateResource.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.CoreCompileInputs.cache
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.exe
+C:\Users\etaln\OneDrive\Documentos\Programacion\c#\3\Sesion4\Sesion4\obj\Debug\Sesion4.pdb
